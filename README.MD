@@ -1,4 +1,4 @@
-# Pomodoro Timer App
+# Pomodora
 
 A simple yet powerful Pomodoro timer application to help you stay focused and productive.
 
